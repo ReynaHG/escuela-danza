@@ -1,0 +1,205 @@
+/* escuela de danza */
+
+
+.dance-1{
+	background-image: url("../img/dance_1.jpg");
+	height:400px;
+	background-size:100%;
+}
+
+.letra-pequenia{
+	font-size: 13px;
+}
+
+.letra-grande{
+	font-size: 60px;
+}
+
+.letra-mediana{
+	font-size: 16px;
+}
+
+.letra-media{
+	font-size: 20px;
+}
+
+.posicion-cab{
+	position: absolute;
+    margin-top: 18%;
+    left: 18%;
+}
+
+/*propiedades de botones*/
+
+.tam-botI{
+	width: 10%;
+	height: 40px;
+
+}
+
+/*Descripción*/
+
+.tam-botII{
+	margin-top: 30px;
+	height:60px;
+}
+
+.border-radius-bot{
+	border-radius: 4px; /*redondea ligeramente los bordes de los botones*/
+}
+
+
+.textura_2{
+	background-image: url("../img/textura_2.jpg");
+	height:350px;
+}
+
+.des-margen {
+	margin-right: 66.666667% ;
+	margin-left:;
+}
+
+.bold{
+	font-weight: bolder;
+}
+
+
+.margenes{
+ margin-left: 20%;
+ margin-right: 10%;
+}
+
+.pt-10{
+	padding-top:10%;
+}
+
+.decoration_1{
+	width: 150px;
+	height: 100px;
+	margin-left: 32%;
+
+}
+
+.ubicacion{
+	margin-top: 4%;
+	margin-left: 22%;
+}
+
+/*Nuestros instructores*/
+
+.instructor_4{
+	background-image: url("../img/instructor_4.jpg");
+	height:286px;
+	background-size:100%;
+}
+
+.profesor_9{
+	background-image: url("../img/profesor_9.jpg");
+	height:286px;
+	background-size:100%;
+}
+
+.borde-blue{
+	 border: 3px solid #464677;
+}
+
+.azul{
+	background-color: #192951;
+}
+
+.cuadro-azul{
+	position: relative;
+	width: 60%;
+	height:50px;
+}
+
+.ubicacionI {
+	position: absolute;
+	left: 30%;
+	margin-top:18%; 
+}
+
+.letra-frase{
+	font-size: 25px;
+	padding-top:10%;
+	padding-bottom:10%;
+}
+
+.visitanos{
+	height: 450px;
+}
+
+.mapa{
+	padding-top: 15%;
+	margin-left: 75%;
+}
+
+.mg-l{
+	margin-left: 10%;
+}
+
+/*formulario*/
+.formulario{
+	background-image: url("../img//shoes_1.jpg");
+	height: 600px;
+	background-position: right;
+	background-repeat: no-repeat;
+	background-size:60%;
+ 	
+}
+
+.pt-13{
+ padding-top: 13%;
+}
+
+.tam-botIII{
+	height: 60px;
+	margin-top: 3%;
+	width: 100%;
+
+}
+
+
+.font-35{
+	font-size:35px;
+}
+
+
+input{
+background-position: left;
+background-repeat: no-repeat;
+}
+
+.contac{
+background-image: url("../img/contacto.png");
+padding-left:8%;
+width: 100%;
+
+}
+
+.email{
+background-image: url("../img/email.png");
+padding-left:8%;
+width: 100%;
+
+}
+
+.mensaje{
+background-image: url("../img/mensaje.png");
+padding-left:8%;
+width: 100%;
+padding-bottom: 18%;
+padding-top: 2%;
+}
+
+.caja{
+	padding-top: 6%;
+}
+
+/*footer*/
+
+.pie{
+	height: 50px;
+	padding-top: 1%;
+	padding-left: 2%;
+}
